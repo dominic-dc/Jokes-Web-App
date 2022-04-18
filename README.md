@@ -8,7 +8,7 @@ This is a simple web application that demonstrates CRUD operations using ASP.NET
 * *Delete a Joke from the list*
 * *Search for a certain Joke*
 
-There are restrictions applied in the above actions, for users who are not logged in, they can only **view** a joke and no other **actions** can be performed.
+There are restrictions applied in the above actions, for users who are not logged in, they can only **view** and **search** for a joke and no other **actions** can be performed.
 
 
 ### To run this project:
