@@ -17,3 +17,9 @@ There are restrictions applied in the above actions, for users who are not logge
 - Setup the configurations needed such as migrations etc.
 - Run the project
 
+![alt text](/wwwroot/Home_Page.png "Home Page")
+
+![alt text](/wwwroot/Index.png "Index")
+
+![alt text](/wwwroot/Search.png "Search")
+
